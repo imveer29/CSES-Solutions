@@ -79,6 +79,7 @@ void google(int t) {cout << "Case #" << t << ": ";}
  
 /*--------------------------Code begins---------------------------*/
  
+//Problem Link: https://cses.fi/problemset/task/1746
 void solve() {
     int n, m;
     cin >> n >> m;
